@@ -1,0 +1,33 @@
+body {
+  width: 100vw;
+  background-color: aquamarine;
+  text-align: center;
+  font-size: 100px;
+  color: white;
+  padding: 5vw;
+}
+
+#id1 {
+  height: 25vh;
+  background-color: blue;
+}
+
+#id2 {
+  height: 25vh;
+  background-color: rebeccapurple;
+}
+
+#id3 {
+  height: 25vh;
+  background-color: red;
+}
+
+#id4 {
+  height: 25vh;
+  background-color: greenyellow;
+}
+
+#id5 {
+  height: 25vh;
+  background-color: orange;
+}
